@@ -1,3 +1,6 @@
+/*
+log^2 per query
+*/
 #include <bits/stdc++.h>
 #define fr first
 #define sc second
